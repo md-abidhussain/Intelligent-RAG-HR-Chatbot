@@ -1,0 +1,14 @@
+.env
+test.csv
+submission.csv
+zyro-dynamics-hr-corpus/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+venv/
+.venv/
+
+.DS_Store
+Thumbs.db
